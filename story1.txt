@@ -1,0 +1,3 @@
+Hello, this is story 1.
+
+Stories are good to read.
