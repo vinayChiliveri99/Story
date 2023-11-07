@@ -53,7 +53,7 @@ This is an image of the google logo ![google logo](https://www.google.com/images
        
 
 ## checklist
-- [] kitchen shopping
-- [] bathroom stuff 
+- [ ] kitchen shopping
+- [ ] bathroom stuff 
 - [x] personal stuff
-- [] beauty stuff
+- [ ] beauty stuff
